@@ -22,7 +22,7 @@
     <div class="cos" style="background:white">CVCVCVCVCV</div>
     <div class="cos">CVCVCVCVCV</div>
     <div class="cos" style="background:white">CVCVCVCVCV</div>
-	<div class="anyshit">Coś tam co dodałem.</div>
+	<div class="anyshit">Coś tam co dodałem. Zibi</div>
     </div>
 </body>
 </html>

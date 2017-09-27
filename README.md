@@ -12,6 +12,43 @@
 	<link rel="stylesheet" href="style.css">	
 </head>
 <body>
+	<style>
+		body{
+margin: 0 !important;	
+}
+.container{
+	width: 100%;
+}
+.header{
+background: #34b299;
+width: 100%;
+height: 80px;
+margin: 0px;
+position: fixed;
+padding: 5px;
+
+}
+.name{
+	color: white;
+    font-size: 44px;
+	/*background: grey;*/
+	height: 90px;
+	width: 350px;
+	padding: 5px;
+	margin-left: 10px;
+    margin-top: 10px;	
+}
+.cos{
+	height: 500px;
+	background: #c9ced6;
+	color:black;
+	padding: 40px;
+	font-size: 40px;
+
+}
+
+	</style>	
+	
 <div class="container">
     <div class="header">
 	<div class="name">Zbigniew Wrona</div></div>

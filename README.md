@@ -51,7 +51,7 @@ padding: 5px;
 	
 <div class="container">
     <div class="header">
-	<div class="name">Zbigniew Wrona</div></div>
+	<div class="name" style="background: grey;">Zbigniew Wrona</div></div>
 	<div class="back" style="height:90px;"></div>
     <div class="cos"><p>Wykształcenie:</p><p>- Wyższa Szkoła Zarządzania w Łodzi</p></div>
     <div class="cos" style="background:white">CVCVCVCVCV</div>
